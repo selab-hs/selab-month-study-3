@@ -25,6 +25,6 @@
 |:---:|:---:|:---:|:---:|
 |2023-1-5|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/5-osi%207%EA%B3%84%EC%B8%B5.md)|||
 |2023-1-6|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/6-OSI%20L4.md)|||
-|2023-1-7||||
+|2023-1-7|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/7-DNS.md)|||
 |2023-1-8||||
 |2023-1-9||||

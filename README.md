@@ -23,7 +23,7 @@
 ### 공부 and 과제 
 |날짜|김기현|성지혜|최유경|
 |:---:|:---:|:---:|:---:|
-|2023-1-5|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/5-osi%207%EA%B3%84%EC%B8%B5.md)| [DAY1](https://github.com/Wisdomcastle/spring-study/blob/e47c2aaba08867a4dc94b5447cba304cc703c302/DAY%201)|[DAY1](https://github.com/KimKiHyun0206/spring-study/blob/yugyoeng/study/Name/7.%20%EC%83%81%EC%86%8D.md)|
+|2023-1-5|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/5-osi%207%EA%B3%84%EC%B8%B5.md)| [DAY1](https://github.com/Wisdomcastle/spring-study/blob/e9d848af89e017301f401728b6f5fe73eede8e42/DAY%201)|[DAY1](https://github.com/KimKiHyun0206/spring-study/blob/yugyoeng/study/Name/7.%20%EC%83%81%EC%86%8D.md)|
 |2023-1-6|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/6-OSI%20L4.md)||[DAY2](https://github.com/KimKiHyun0206/spring-study/blob/yugyoeng/study/Name/8.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)|
 |2023-1-7|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/7-DNS.md)||[DAY3](https://github.com/KimKiHyun0206/spring-study/blob/yugyoeng/study/Name/11.%20%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)|
 |2023-1-8|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/8-REST%20API.md)||[DAY4](https://github.com/KimKiHyun0206/spring-study/blob/yugyoeng/study/Name/osi%207%EA%B3%84%EC%B8%B5.md)|

@@ -31,7 +31,7 @@
 |2023-1-10|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/10-IP%2C%20TCP%2C%20UDP%2C%20HTTP.md)|||
 |2023-1-11|[Dodeon](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/dodeon/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%93%B1%EB%A1%9D.md)|||
 |2023-1-12|[CODE](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/spring-samle-code/%40Transactional.md)|||
-|2023-1-13||||
+|2023-1-13|[Code](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/spring-samle-code/%40ResponseBody%2C%20%40RequestBody.md)|||
 |2023-1-14||||
 |2023-1-15||||
 |2023-1-16||||

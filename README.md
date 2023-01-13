@@ -30,7 +30,7 @@
 |2023-1-9|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/09-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8A%A4.md)|||
 |2023-1-10|[TOPIC](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/10-IP%2C%20TCP%2C%20UDP%2C%20HTTP.md)|||
 |2023-1-11|[Dodeon](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/dodeon/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%93%B1%EB%A1%9D.md)|||
-|2023-1-12||||
+|2023-1-12|[CODE](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/spring-samle-code/%40Transactional.md)|||
 |2023-1-13||||
 |2023-1-14||||
 |2023-1-15||||

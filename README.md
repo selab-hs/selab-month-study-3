@@ -32,7 +32,7 @@
 |2023-1-11|[Dodeon](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/dodeon/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%93%B1%EB%A1%9D.md)|||
 |2023-1-12|[CODE](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/spring-samle-code/%40Transactional.md)|||
 |2023-1-13|[Code](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/spring-samle-code/%40ResponseBody%2C%20%40RequestBody.md)|||
-|2023-1-14||||
+|2023-1-14|[Topic](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/14-%EB%9D%BC%EC%9A%B0%ED%84%B0.md)|||
 |2023-1-15||||
 |2023-1-16||||
 |2023-1-17||||

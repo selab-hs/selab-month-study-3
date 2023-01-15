@@ -33,7 +33,7 @@
 |2023-1-12|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/spring-samle-code/%40Transactional.md)|||
 |2023-1-13|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/spring-samle-code/%40ResponseBody%2C%20%40RequestBody.md)|||
 |2023-1-14|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/14-%EB%9D%BC%EC%9A%B0%ED%84%B0.md)|||
-|2023-1-15||||
+|2023-1-15||[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/07.%20%EA%B0%9D%EC%B2%B4%20%EB%B6%84%ED%95%B4.md)||
 |2023-1-16||||
 |2023-1-17||||
 |2023-1-18||||

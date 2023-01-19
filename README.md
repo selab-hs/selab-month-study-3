@@ -37,7 +37,7 @@
 |2023-1-16|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/08.%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.md)|||
 |2023-1-17|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/11.%20%ED%95%A9%EC%84%B1%EA%B3%BC%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%84%A4%EA%B3%84.md)|||
 |2023-1-18|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/18-Cookie%20cs%20Session.md)|||
-|2023-1-19||||
+|2023-1-19|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/19-cast.md)|||
 |2023-1-20||||
 |2023-1-21||||
 |2023-1-22||||

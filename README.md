@@ -41,7 +41,7 @@
 |2023-1-20||||
 |2023-1-21|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/21-http.md)|||
 |2023-1-22|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/22-ipv4%20vs%20ipv6.md)|||
-|2023-1-23||||
+|2023-1-23|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/23-http%20status%20code.md)|||
 |2023-1-24||||
 |2023-1-25||||
 |2023-1-26||||

@@ -43,7 +43,7 @@
 |2023-1-22|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/22-ipv4%20vs%20ipv6.md)|||
 |2023-1-23|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/23-http%20status%20code.md)|||
 |2023-1-24|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/24-DB%20Index.md)|||
-|2023-1-25||||
+|2023-1-25|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/25-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)|||
 |2023-1-26||||
 |2023-1-27||||
 |2023-1-28||||

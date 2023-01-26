@@ -44,7 +44,7 @@
 |2023-1-23|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/23-http%20status%20code.md)|||
 |2023-1-24|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/24-DB%20Index.md)|||
 |2023-1-25|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/25-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)|||
-|2023-1-26||||
+|2023-1-26|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EC%9D%B4%EC%99%80%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)|||
 |2023-1-27||||
 |2023-1-28||||
 |2023-1-29||||

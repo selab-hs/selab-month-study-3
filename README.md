@@ -38,7 +38,7 @@
 |2023-1-17|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/11.%20%ED%95%A9%EC%84%B1%EA%B3%BC%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%84%A4%EA%B3%84.md)|||
 |2023-1-18|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/18-Cookie%20cs%20Session.md)|||
 |2023-1-19|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/19-cast.md)|||
-|2023-1-20||||
+|2023-1-20|:red_circle:|||
 |2023-1-21|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/21-http.md)|||
 |2023-1-22|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/22-ipv4%20vs%20ipv6.md)|||
 |2023-1-23|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/23-http%20status%20code.md)|||

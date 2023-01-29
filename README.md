@@ -21,6 +21,10 @@
 5. 매주 수요일 오후 9시 (요일 및 시간 변동 가능)
 
 ### 공부 and 과제 
+<details>
+<summary>1월</summary>
+<div markdown="1">
+<br>
 |날짜|김기현|성지혜|최유경|
 |:---:|:---:|:---:|:---:|
 |2023-1-5|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/05-osi%207%EA%B3%84%EC%B8%B5.md)| [DAY1](https://github.com/Wisdomcastle/spring-study/blob/e9d848af89e017301f401728b6f5fe73eede8e42/DAY%201)|[DAY1](https://github.com/KimKiHyun0206/spring-study/blob/yugyoeng/study/Name/7.%20%EC%83%81%EC%86%8D.md)|
@@ -50,3 +54,5 @@
 |2023-1-29|[:large_blue_circle:](https://delightful-porpoise-094.notion.site/71ad19d74a7f4eb484e776907a811d83)|||
 |2023-1-30||||
 |2023-1-31||||
+</div>
+</details>

@@ -47,6 +47,6 @@
 |2023-1-26|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EC%9D%B4%EC%99%80%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)|||
 |2023-1-27|[:large_blue_circle:](https://github.com/selab-hs/se-todo-study/blob/kihyun/working/searchstudy/1%EC%9B%94%2027%EC%9D%BC%20%EC%A1%B0%EC%82%AC%EA%B3%BC%EC%A0%9C.md)|||
 |2023-1-28|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/28-%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%84%A4%EA%B3%84%20%ED%8C%A8%ED%84%B4.md)|||
-|2023-1-29|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/28-%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%84%A4%EA%B3%84%20%ED%8C%A8%ED%84%B4.md)|||
+|2023-1-29|[:large_blue_circle:](https://delightful-porpoise-094.notion.site/71ad19d74a7f4eb484e776907a811d83)|||
 |2023-1-30||||
 |2023-1-31||||

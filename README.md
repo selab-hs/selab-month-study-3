@@ -55,7 +55,7 @@
 |2023-1-28|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/28-%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%84%A4%EA%B3%84%20%ED%8C%A8%ED%84%B4.md)|||
 |2023-1-29|[:large_blue_circle:](https://delightful-porpoise-094.notion.site/71ad19d74a7f4eb484e776907a811d83)|||
 |2023-1-30|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/13.%20%EC%84%9C%EB%B8%8C%ED%81%B4%EB%9E%98%EC%8B%B1%EA%B3%BC%20%EC%84%9C%EB%B8%8C%ED%83%80%EC%9D%B4%ED%95%91.md)|||
-|2023-1-31||||
+|2023-1-31|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-1/31-DTO.md)|||
 </div>
 </details>
 

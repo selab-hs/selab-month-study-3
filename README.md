@@ -21,6 +21,9 @@
 5. 매주 수요일 오후 9시 (요일 및 시간 변동 가능)
 
 ### 공부 and 과제 
+|TOPIC|JAVA|OTHER||NONE|
+|:---:|:---:|:---:|:---:|
+|:large_blue_circle:|:coffee:|:blue_book|:red_circle:|
 <details>
 <summary>2023년 1월</summary>
 <div markdown="1">

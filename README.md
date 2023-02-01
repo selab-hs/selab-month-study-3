@@ -94,7 +94,9 @@
 |2023-2-27||
 |2023-2-28||   
 
-
-| TOPIC | JAVA | OTHER | NONE |
-|:---:|:---:|:---:|:---:|
-|:large_blue_circle:|:coffee:|:blue_book:|:red_circle:|
+|내용|이모티콘|
+|:---:|:---:|
+|TOPIC|:large_blue_circle:|
+|JAVA|:coffee:|
+|OTHER|:blue_book:|
+|NONE|:red_circle:|

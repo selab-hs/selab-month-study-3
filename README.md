@@ -22,7 +22,7 @@
 
 ### 공부 and 과제 
 <details>
-<summary>1월</summary>
+<summary>2023년 1월</summary>
 <div markdown="1">
 <br>
  
@@ -60,14 +60,40 @@
 </details>
 
 <details>
-  <summary>2월</summary>
+  <summary>2023년 2월</summary>
   <div markdown="2">
     <br>
     
     
 |날짜|김기현|
 |:---:|:---:|
-|2023-2-1|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/1-Database%20Engine.md)|
-|||
+|1|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/1-Database%20Engine.md)|
+|2||
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
+|9||
+|10||
+|11||
+|12||
+|13||    
+|14||
+|15||
+|16||
+|17||
+|18||
+|19||
+|20||
+|21||
+|22||
+|23||
+|24||
+|25||
+|26||
+|27||
+|28||   
   </div>
   </details>

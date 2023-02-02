@@ -75,8 +75,11 @@
 </div>
 </details>
 
-
-2월    
+<details>
+<summary>2023년 2월</summary>
+<div markdown="1">
+<br>
+ 
 |날짜|김기현|
 |:---:|:---:|
 |2023-2-1|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/1-Database%20Engine.md)|
@@ -107,6 +110,9 @@
 |2023-2-26||
 |2023-2-27||
 |2023-2-28||   
+ </div>
+</details>
+
 <div align="right">
 <h3>🌵 스터디 이모지 🌵</h3>
   

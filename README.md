@@ -93,6 +93,7 @@
 |2023-2-26||
 |2023-2-27||
 |2023-2-28||   
+<div align="right">
 
 |내용|이모티콘|
 |:---:|:---:|
@@ -100,3 +101,4 @@
 |JAVA|:coffee:|
 |OTHER|:blue_book:|
 |NONE|:red_circle:|
+</div>

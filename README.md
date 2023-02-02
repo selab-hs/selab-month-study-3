@@ -1,8 +1,15 @@
-# selab-month-study-3
-팀장 : 김동건 - todo study
+<div align="center">
+  
+  <h1>selab-month-study-3</h1> 
+  <p><strong>팀장</strong> : 김동건</p>
+</div> 
 
 
-### 🙆 People
+<div align="center">
+  
+  <h2>🙆 People 🙆</h2> 
+  
+</div> 
 
 <div align="center">
 
@@ -13,15 +20,22 @@
 | 극락코딩|흰여울|위스덤|유굥|
   </div>
 
-### 🤙 RULE
+<div align="center">
+  
+  <h2>🤙 RULE 🤙</h2> 
+  
+</div> 
+
 1. 스터디 빠지지 않기 -> 빠지면 벌금 5만원
 2. 정해진 숙제는 직접 하기 -> 다른 사람 내용 그대로 가져와서 copy하면 벌금 5만원
 3. 중도 스터디 탈퇴 -> 벌금 10만원
 4. 노력하지 않음 -> 벌금 5만원
 5. 매주 수요일 오후 9시 (요일 및 시간 변동 가능)
-
-### 공부 and 과제 
-
+<div align="center">
+  
+  <h2>공부 and 과제</h2> 
+  
+</div>
 
 <details>
 <summary>2023년 1월</summary>

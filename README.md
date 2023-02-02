@@ -1,13 +1,13 @@
 <div align="center">
   
-  <h1>selab-month-study-3</h1> 
+  <h1>🍀 selab-month-study-3 🍀</h1> 
   <p><strong>팀장</strong> : 김동건</p>
 </div> 
 
 
 <div align="center">
   
-  <h2>🙆 People 🙆</h2> 
+  <h2>🌿 People 🌿</h2> 
   
 </div> 
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  <h2>🤙 RULE 🤙</h2> 
+  <h2>🌱 RULE 🌱</h2> 
   
 </div> 
 
@@ -33,7 +33,7 @@
 5. 매주 수요일 오후 9시 (요일 및 시간 변동 가능)
 <div align="center">
   
-  <h2>공부 and 과제</h2> 
+  <h2>📗 공부 and 과제 📗</h2> 
   
 </div>
 
@@ -108,7 +108,8 @@
 |2023-2-27||
 |2023-2-28||   
 <div align="right">
-
+<h3>🌵 스터디 이모지 🌵</h3>
+  
 |내용|이모티콘|
 |:---:|:---:|
 |TOPIC|:large_blue_circle:|

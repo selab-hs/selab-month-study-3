@@ -86,7 +86,7 @@
 |2023-2-2|[:blue_book:](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
 |2023-2-3|[:blue_book:](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
 |2023-2-4|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/4-Redis.md)|
-|2023-2-5||
+|2023-2-5|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/5-RDB%20and%20NoSQL.md)|
 |2023-2-6||
 |2023-2-7||
 |2023-2-8||

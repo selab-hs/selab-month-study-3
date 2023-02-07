@@ -99,7 +99,7 @@
 |2023-2-4|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/4-Redis.md)|
 |2023-2-5|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/5-RDB%20and%20NoSQL.md)|
 |2023-2-6|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/6-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
-|2023-2-7||
+|2023-2-7|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/7-DDL%2C%20DML%2C%20DCL.md)|
 |2023-2-8||
 |2023-2-9||
 |2023-2-10||

@@ -93,14 +93,14 @@
  
 |날짜|김기현|
 |:---:|:---:|
-|2023-2-1|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/01-Database%20Engine.md)|
+|2023-2-1|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/01-Database%20Engine.md)|
 |2023-2-2|[:blue_book:](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
 |2023-2-3|[:blue_book:](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
-|2023-2-4|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/04-Redis.md)|
-|2023-2-5|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/05-RDB%20and%20NoSQL.md)|
-|2023-2-6|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/06-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
-|2023-2-7|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/07-DDL%2C%20DML%2C%20DCL.md)|
-|2023-2-8|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/kihyun/study/2023-2/08-%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%2C%20Deadlock.md)|
+|2023-2-4|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/04-Redis.md)|
+|2023-2-5|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/05-RDB%20and%20NoSQL.md)|
+|2023-2-6|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/06-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)|
+|2023-2-7|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/07-DDL%2C%20DML%2C%20DCL.md)|
+|2023-2-8|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/08-%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%2C%20Deadlock.md)|
 |2023-2-9|[:blue_book:](https://github.com/KimKiHyun0206/spring-study/tree/main/dodeon)|
 |2023-2-10|[:blue_book:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/10-%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%99%80%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)|
 |2023-2-11||

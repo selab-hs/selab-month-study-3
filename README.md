@@ -105,7 +105,7 @@
 |2023-2-9|[:blue_book:](https://github.com/KimKiHyun0206/spring-study/tree/main/dodeon)|
 |2023-2-10|[:blue_book:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/10-%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%99%80%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)|
 |2023-2-11|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/11-Spring%20Servlet.md)|
-|2023-2-12||
+|2023-2-12|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/12-Spring%20MVC.md)|
 |2023-2-13||    
 |2023-2-14||
 |2023-2-15||

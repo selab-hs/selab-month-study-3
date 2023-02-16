@@ -109,7 +109,7 @@
 |2023-2-13|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/13-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EA%B8%B0%EB%B2%95.md)|    
 |2023-2-14|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-2/14-Java%20Collection.md)|
 |2023-2-15|[🍃](https://github.com/KimKiHyun0206/spring-study/tree/main/dodeon)|
-|2023-2-16||
+|2023-2-16|[:blue_book:](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Cross-Origin%20Resouece%20Sharing.md)|
 |2023-2-17||
 |2023-2-18||
 |2023-2-19||

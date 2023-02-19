@@ -112,7 +112,7 @@
 |2023-2-16|[:blue_book:](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Cross-Origin%20Resouece%20Sharing.md)|
 |2023-2-17|[:blue_book:](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Cross-Origin%20Resouece%20Sharing.md)|
 |2023-2-18|[🍃](https://github.com/KimKiHyun0206/PokemonDunguon)|
-|2023-2-19||
+|2023-2-19|[🍃](https://github.com/selab-hs/se-todo-study/pull/2)|
 |2023-2-20||
 |2023-2-21||
 |2023-2-22||

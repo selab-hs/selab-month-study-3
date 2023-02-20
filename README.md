@@ -114,7 +114,7 @@
 |2023-2-18|[🍃](https://github.com/KimKiHyun0206/PokemonDunguon)|
 |2023-2-19|[🍃](https://github.com/selab-hs/se-todo-study/pull/2)|
 |2023-2-20|[🍃](https://github.com/selab-hs/se-todo-study/pull/2)|
-|2023-2-21||
+|2023-2-21|:red_circle:|
 |2023-2-22||
 |2023-2-23||
 |2023-2-24||

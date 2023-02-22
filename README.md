@@ -115,7 +115,7 @@
 |2023-2-19|[🍃](https://github.com/selab-hs/se-todo-study/pull/2)|
 |2023-2-20|[🍃](https://github.com/selab-hs/se-todo-study/pull/2)|
 |2023-2-21|:red_circle:|
-|2023-2-22||
+|2023-2-22|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/dodeon/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)|
 |2023-2-23||
 |2023-2-24||
 |2023-2-25||

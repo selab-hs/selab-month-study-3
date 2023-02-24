@@ -117,7 +117,7 @@
 |2023-2-21|:red_circle:|
 |2023-2-22|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/dodeon/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)|
 |2023-2-23|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/spring-samle-code/JPA%20Criteria%20-%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B4.md)|
-|2023-2-24||
+|2023-2-24|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/spring-samle-code/EntityManager.md)|
 |2023-2-25||
 |2023-2-26||
 |2023-2-27||

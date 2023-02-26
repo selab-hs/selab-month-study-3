@@ -119,7 +119,7 @@
 |2023-2-23|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/spring-samle-code/JPA%20Criteria%20-%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B4.md)|
 |2023-2-24|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/spring-samle-code/EntityManager.md)|
 |2023-2-25|[🍃](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
-|2023-2-26||
+|2023-2-26|[🍃](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
 |2023-2-27||
 |2023-2-28||   
  </div>

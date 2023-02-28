@@ -121,7 +121,7 @@
 |2023-2-25|[🍃](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
 |2023-2-26|[🍃](https://github.com/selab-hs/se-todo-study/tree/kihyun/diary-project)|
 |2023-2-27|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Criteria.md)|
-|2023-2-28||   
+|2023-2-28|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Criteria.md)|   
  </div>
 </details>
 

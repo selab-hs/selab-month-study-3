@@ -132,7 +132,7 @@
 |날짜|김기현|
 |:---:|:---:|
 |2023-3-1|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Criteria.md)|
-|2023-3-2||
+|2023-3-2|:red_circle:|
 |2023-3-3||
 |2023-3-4||
 |2023-3-5||

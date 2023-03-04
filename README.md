@@ -136,7 +136,7 @@
 |2023-3-1|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Criteria.md)|
 |2023-3-2|:red_circle:|
 |2023-3-3|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-3/3-%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%20%EC%B0%A8%EC%9D%B4.md)|
-|2023-3-4||
+|2023-3-4|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-3/4-Critical%20Section.md)|
 |2023-3-5||
 |2023-3-6||
 |2023-3-7||

@@ -142,7 +142,7 @@
 |2023-3-7|[:large_blue_circle:](https://github.com/KimKiHyun0206/spring-study/blob/main/2023-3/6-%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C%EC%9E%90%2C%20%EC%83%9D%EC%84%B1%EC%9E%90%2C%20SOLID.md)|
 |2023-3-8|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-9|[🍃](https://github.com/KimKiHyun0206/spring-study/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B0%9C%ED%91%9C%20%EC%A4%80%EB%B9%84/Cross-Origin%20Resouece%20Sharing.md)|
-|2023-3-10||
+|2023-3-10|📙|
 |2023-3-11||
 |2023-3-12||
 |2023-3-13||

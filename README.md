@@ -145,8 +145,8 @@
 |2023-3-10|📙|
 |2023-3-11|[📋](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|
 |2023-3-12|[:large_blue_circle:](https://github.com/KimKiHyun0206/Backend-Study/blob/SE-Lab-Study/Topic/OSI%207%EA%B3%84%EC%B8%B5.md)|
-|2023-3-13||
-|2023-3-14||
+|2023-3-13|[:large_blue_circle:](https://github.com/KimKiHyun0206/Backend-Study/blob/SE-Lab-Study/Topic/OSI%207%EA%B3%84%EC%B8%B5.md)|
+|2023-3-14|📙|
 |2023-3-15||
 |2023-3-16||
 |2023-3-17||

@@ -148,7 +148,7 @@
 |2023-3-13|[:large_blue_circle:](https://github.com/KimKiHyun0206/Backend-Study/blob/SE-Lab-Study/Topic/OSI%207%EA%B3%84%EC%B8%B5.md)|
 |2023-3-14|📙|
 |2023-3-15|:red_circle:|
-|2023-3-16||
+|2023-3-16|[📙](https://github.com/KimKiHyun0206/University/tree/main/Algorithm/ch3)|
 |2023-3-17||
 |2023-3-18||
 |2023-3-19||

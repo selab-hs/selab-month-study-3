@@ -154,8 +154,8 @@
 |2023-3-19|[:large_blue_circle:](https://github.com/KimKiHyun0206/Backend-Study/blob/main/2023-3/19-%EC%A0%95%EA%B7%9C%ED%99%94.md)|
 |2023-3-20|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-21|:red_circle:|
-|2023-3-22||
-|2023-3-23||
+|2023-3-22|[📙](https://github.com/KimKiHyun0206/University)|
+|2023-3-23|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-24||
 |2023-3-25||
 |2023-3-26||

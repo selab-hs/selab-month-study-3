@@ -156,7 +156,7 @@
 |2023-3-21|:red_circle:|
 |2023-3-22|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-23|[📙](https://github.com/KimKiHyun0206/University)|
-|2023-3-24||
+|2023-3-24|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-25||
 |2023-3-26||
 |2023-3-27||

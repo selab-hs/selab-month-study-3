@@ -158,7 +158,7 @@
 |2023-3-23|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-24|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-25|[📙](https://github.com/KimKiHyun0206/University)|
-|2023-3-26||
+|2023-3-26|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-3-27||
 |2023-3-28||
 |2023-3-29||

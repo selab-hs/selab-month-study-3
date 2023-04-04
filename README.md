@@ -184,7 +184,7 @@
 |2023-4-1|:red_circle:|
 |2023-4-2|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-4-3|[📙](https://github.com/KimKiHyun0206/University)|
-|2023-4-4||
+|2023-4-4|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-4-5||
 |2023-4-6||
 |2023-4-7||

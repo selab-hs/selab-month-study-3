@@ -186,7 +186,7 @@
 |2023-4-3|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-4-4|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-4-5|[📙](https://github.com/KimKiHyun0206/University)|
-|2023-4-6||
+|2023-4-6|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-4-7||
 |2023-4-8||
 |2023-4-9||

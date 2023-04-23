@@ -203,7 +203,7 @@
 |2023-4-20|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-4-21|[📙](https://github.com/KimKiHyun0206/University)|
 |2023-4-22|[📙](https://github.com/KimKiHyun0206/University)|
-|2023-4-23||
+|2023-4-23|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
 |2023-4-24||
 |2023-4-25||
 |2023-4-26||

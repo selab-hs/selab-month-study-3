@@ -206,7 +206,7 @@
 |2023-4-23|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
 |2023-4-24|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
 |2023-4-25|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-4-26||
+|2023-4-26|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
 |2023-4-27||
 |2023-4-28||
 |2023-4-29||

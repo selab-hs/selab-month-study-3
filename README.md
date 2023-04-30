@@ -210,7 +210,7 @@
 |2023-4-27|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
 |2023-4-28|:red_circle:|
 |2023-4-29|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-4-30||
+|2023-4-30|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
 
 </div>
 </details>

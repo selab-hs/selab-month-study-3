@@ -230,7 +230,7 @@
 |2023-5-5|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
 |2023-5-6|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
 |2023-5-7|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-8||
+|2023-5-8|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
 |2023-5-9||
 |2023-5-10||
 |2023-5-11||

@@ -237,7 +237,7 @@
 |2023-5-12|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
 |2023-5-13|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
 |2023-5-14|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-15||
+|2023-5-15|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
 |2023-5-16||
 |2023-5-17||
 |2023-5-18||

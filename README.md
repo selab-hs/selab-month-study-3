@@ -13,11 +13,11 @@
 
 <div align="center">
 
-|     극락     |    현     |
-| :-----------------------------------: | :-----------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://craftshop.co.kr/data/goods/1/2019/12/228606_2019121110582830.jpg" width="250"/> | <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEyMTRfNCAg%2FMDAxNjcxMDA2NjQ3OTI3.y3qhKnPAPrl5L7ulGWkOgVRiCJE_z5nEvVyNCZTZXJsg.nsk31ivbRB9fPb0qo8diOAzKXNwVnuA1rw3pHjlrIr0g.JPEG.star_cat_%2F20221214_172935.jpg&type=sc960_832" width="250">|
-|   [김동건](https://github.com/DongGeon0908) |[김기현](https://github.com/KimKiHyun0206)  |
-| 극락코딩|기현|
+|                                      극락                                       |    현     |                                                 柱                                                 |
+|:-----------------------------------------------------------------------------:| :-----------------: |:-------------------------------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> |<img src="https://craftshop.co.kr/data/goods/1/2019/12/228606_2019121110582830.jpg" width="250"/> |                    <img src="https://i.ibb.co/ZV9FTWg/pepsi.gif" width="250"/>                    |
+|                    [김동건](https://github.com/DongGeon0908)                     |[김기현](https://github.com/KimKiHyun0206)  |                                 [박창주](https://github.com/ds4pae)                                  |
+|                                     극락코딩                                      |기현|                                                창주                                                 |
   </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
 </div> 
 
 |월|이름|목표|달성여부|
-|:---:|:---:|:--------|:---:
+|:---:|:---:|:--------|:---:|
 |1월|김기현|오브젝트 다 읽기| O |
 |2월|김기현|~~혼자서 스프링 CRUD 만들어보기~~| X |
 |2월|김기현|도던(스프링 공부) 완료하기| O|
@@ -221,39 +221,39 @@
 <div markdown="1">
 <br>
 
-|날짜|김기현|
-|:---:|:---:|
-|2023-5-1|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-2|:red_circle:|
-|2023-5-3|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-4|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-5|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-6|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-7|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-8|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-9|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-10|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-11|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-12|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-13|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|
-|2023-5-14|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-15|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-16|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-17|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-18|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-19|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-20|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-21|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-22|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|
-|2023-5-23||
-|2023-5-24||
-|2023-5-25||
-|2023-5-26||
-|2023-5-27||
-|2023-5-28||
-|2023-5-29||
-|2023-5-30||
-|2023-5-31||  
+|날짜|김기현|                                                        박창주                                                         |
+|:---:|:---:|:------------------------------------------------------------------------------------------------------------------:|
+|2023-5-1|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-2|:red_circle:|                                                                                                                    |
+|2023-5-3|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-4|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-5|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-6|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-7|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-8|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-9|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-10|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-11|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-12|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-13|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-5)|                                                                                                                    |
+|2023-5-14|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-15|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-16|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-17|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-18|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-19|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-20|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-21|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|                                                                                                                    |
+|2023-5-22|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)| [📙](https://reinvented-frill-582.notion.site/45f7ca1b5b8940b19de67cde7ffb07b6?v=d5e6cc36f70244aaacb5064ee12821ef) |
+|2023-5-23||                                                                                                                    |
+|2023-5-24||                                                                                                                    |
+|2023-5-25||                                                                                                                    |
+|2023-5-26||                                                                                                                    |
+|2023-5-27||                                                                                                                    |
+|2023-5-28||                                                                                                                    |
+|2023-5-29||                                                                                                                    |
+|2023-5-30||                                                                                                                    |
+|2023-5-31||                                                                                                                    |  
 
 </div>
 </details>

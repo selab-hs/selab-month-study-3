@@ -347,7 +347,7 @@
 
 |내용|이모티콘|
 |:---:|:---:|
-|TOPIC|:large_blue_circle:|
+|TOPIC|🔵|
 |JAVA|:coffee:|
 |Spring|🍃|
 |Univertsity|📙|

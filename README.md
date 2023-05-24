@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <h2>🌿 People 🌿</h2> 
+  <h2>🌿 Member 🌿</h2> 
   
 </div> 
 

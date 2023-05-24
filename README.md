@@ -348,11 +348,11 @@
 |내용|이모티콘|
 |:---:|:---:|
 |TOPIC|🔵|
-|JAVA|:coffee:|
+|JAVA|☕|
 |Spring|🍃|
 |Univertsity|📙|
 |Coding Test|📋|
-|OTHER|:blue_book:|
-|NONE|:red_circle:|
+|OTHER|📘|
+|NONE|🔴|
 
 </div>

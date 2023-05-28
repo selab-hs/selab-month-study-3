@@ -36,7 +36,7 @@
 
 <div align="center">
   
-  <h2>🌵 매달 목표 🌵</h2> 
+  <h2>🌵 To-Do-List 🌵</h2> 
   
 </div> 
 
@@ -50,7 +50,7 @@
 |5월|김기현|토픽 매일 정리하기||
 <div align="center">
   
-  <h2>📗 공부 📗</h2> 
+  <h2>📗 Study Log 📗</h2> 
   
 </div>
 

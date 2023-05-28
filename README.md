@@ -252,7 +252,7 @@
 |2023-5-25|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|[📙](https://reinvented-frill-582.notion.site/45f7ca1b5b8940b19de67cde7ffb07b6?v=d5e6cc36f70244aaacb5064ee12821ef)|
 |2023-5-26|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)|[📙](https://reinvented-frill-582.notion.site/45f7ca1b5b8940b19de67cde7ffb07b6?v=d5e6cc36f70244aaacb5064ee12821ef)|
 |2023-5-27|[📙](https://github.com/KimKiHyun0206/University-Homework.git)|[☕](https://github.com/ds4pae/Daily-Study)|
-|2023-5-28|||
+|2023-5-28|[📙](https://delightful-porpoise-094.notion.site/21f1dfc88f5447a58362c39b392ea1cb?v=7451107575f74074ad58fa9ec4003967)||
 |2023-5-29|||
 |2023-5-30|||
 |2023-5-31|||  

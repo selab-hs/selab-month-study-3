@@ -286,7 +286,7 @@
 |2023-6-14|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)|[📙](https://reinvented-frill-582.notion.site/45f7ca1b5b8940b19de67cde7ffb07b6?v=d5e6cc36f70244aaacb5064ee12821ef)|
 |2023-6-15|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)|🔴
 |2023-6-16|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)|[☕](https://github.com/ds4pae/Daily-Study)|
-|2023-6-17||
+|2023-6-17|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)|
 |2023-6-18||
 |2023-6-19||
 |2023-6-20||

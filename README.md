@@ -299,7 +299,7 @@
 |2023-6-27|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)|[☕](https://github.com/ds4pae/Daily-Study)|
 |2023-6-28|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)|[☕](https://github.com/ds4pae/Daily-Study)|
 |2023-6-29|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)|[☕](https://github.com/ds4pae/Daily-Study)|
-|2023-6-30|| 
+|2023-6-30|[🔵](https://github.com/KimKiHyun0206/Backend-Study/tree/main/2023-6)| 
 
 </div>
 </details>

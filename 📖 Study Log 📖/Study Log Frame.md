@@ -33,12 +33,6 @@
 | 2023-7-31 ||
 
 
-|     내용      | 이모티콘 |
+|     O      | X |
 |:-----------:|:----:|
-|    TOPIC    |  🔵  |
-|    JAVA     |  ☕   |
-|   Spring    |  🍃  |
-| University  |  📙  |
-| Coding Test |  📋  |
-|    OTHER    |  📘  |
-|    NONE     |  🔴  |
+|    🔵    |  🔴  |
